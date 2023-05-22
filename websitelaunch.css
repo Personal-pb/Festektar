@@ -44,12 +44,14 @@ body {
         margin-bottom: -14px;
         color: #0ef6cc;
         font-family: Roboto;
-        margin-left: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     .launch-time div span {
         font-family: Roboto;
         font-size: 22px;
-        margin-left: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
     .logo {
         display: none;
